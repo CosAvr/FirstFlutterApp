@@ -43,3 +43,25 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# iOS
+ios/Flutter/
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+
+# macOS
+macos/Flutter/
+macos/Pods/
+macos/.symlinks/
+macos/Runner.xcworkspace/
+
+# Linux
+linux/Flutter/
+
+# Windows
+windows/Flutter/
+
+# Web
+web/.dart_tool/
+web/.packages
